@@ -48,7 +48,7 @@ def perform_k_means(image, k, num_it):
 
 
 def main():
-    # Note: using small scale and large k can lead to errorss
+    # Note: using small scale and large k can lead to errors
     image_name = raw_input("Image name: ")
     scale = max(float(raw_input("Rescale amount (0.05 to 1.0): ")), 0.05)
     k = int(raw_input("K: "))
