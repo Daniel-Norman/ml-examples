@@ -5,4 +5,4 @@ Various basic examples of Machine Learning techniques
 Uses K-Means to segment an image into k colors.
 
 ## AdaBoost Classification
-Uses AdaBoost create a complex decision boundary from extremely simple classifiers.
+Uses AdaBoost to create a complex decision boundary from extremely simple classifiers.
