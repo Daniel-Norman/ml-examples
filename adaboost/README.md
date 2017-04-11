@@ -1,5 +1,5 @@
 ## AdaBoost Classification
-Uses AdaBoost create a complex decision boundary from extremely simple classifiers.
+Uses AdaBoost to create a complex decision boundary from extremely simple classifiers.
 
 Each simple classifier is a 1D straight line that divides the data in half.
 For 2D data, this is represented as either a vertical line (at any x) or horizontal line (at any y).
